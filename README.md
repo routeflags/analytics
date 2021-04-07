@@ -8,7 +8,10 @@ TBD
 
 ### Prerequisites
 
-TBD
+#### Ubuntu
+```
+apt-get install -y fonts-ipafont-gothic
+```
 
 ### Installing
 
@@ -30,7 +33,11 @@ TBD
 
 ## Built With
 
-TBD
+### Docker
+
+```
+docker-compose up -d
+```
 
 ## Contributing
 
