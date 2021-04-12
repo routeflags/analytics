@@ -8,15 +8,17 @@ TBD
 
 ### Prerequisites
 
-#### Ubuntu
-```
-apt-get install -y fonts-ipafont-gothic
-```
+TBD
 
 ### Installing
 
 ```
 pip install -r requirements.txt
+```
+
+#### Ubuntu
+```
+apt-get install -y fonts-ipafont-gothic
 ```
 
 ## Running the tests
